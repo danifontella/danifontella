@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danifontella
-- 👀 estoy interesado en la programacion, marketing digital...
+- 👀 estoy interesado en la programacion
 - 🌱 I’m currently learning  programacion como html,css y javascrip
 - 📫 How to reach me ... me podes contactar en instagram como @danifontella
 - 
